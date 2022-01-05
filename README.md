@@ -1,4 +1,4 @@
-Create a Birthday Card app - Solution Code
+Create a Birthday Card app
 ==========================================
 
 Solution code for the Android Basics in Kotlin: Create a Birthday Card app codelab.
